@@ -1,4 +1,4 @@
-# Text-To-Speech-Using-Jetpack-Compose
+# Text-To-Speech-Using-himalayan_atl
 
 In this project uses TextToSpeech class in kotlin for conversion of text into audio  and jetpack compose for ui
 
